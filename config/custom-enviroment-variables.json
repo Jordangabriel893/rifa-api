@@ -1,0 +1,10 @@
+{
+    "mysql": {
+        "usuario": "CLIENTE_MYSQL_USUARIO",
+        "senha": "CLIENTE_MYSQL_SENHA",
+        "host": "CLIENTE_MYSQL_HOST"
+    },
+    "api": {
+        "porta": "CLIENTE_PORTA_API"
+    }
+}
