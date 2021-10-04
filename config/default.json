@@ -3,7 +3,7 @@
         "banco-de-dados": "clientes",
         "usuario": "root",
         "senha": "",
-        "host": "127.0.0.1"
+        "host": "mysql"
     },
     "api": {
         "porta": 3306
